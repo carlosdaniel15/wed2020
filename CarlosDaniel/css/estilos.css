@@ -1,5 +1,12 @@
 body{
-    background: url(https://www.tourinews.es/uploads/s1/31/93/69/intercontinental-se-deshace-de-su-ultimo-hotel-de-lujo-en-murcia.jpeg);
+    background: url(https://q-cf.bstatic.com/images/hotel/max1024x768/781/78174633.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
+nav{
+
+    margin: 1em 0;
+    display: block;
+    size: 25px;
+    
+
