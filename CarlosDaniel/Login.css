@@ -1,5 +1,5 @@
 body {
-    background: url(https://q-cf.bstatic.com/images/hotel/max1024x768/781/78174633.jpg);
+    background: url(https://media-magazine.trivago.com/wp-content/uploads/sites/3/2017/01/02163055/hoteles-todo-incluido-caribe-portada.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -14,8 +14,8 @@ body {
 #Contenedor {
     width: 400px;
     margin: 50px auto;
-    background-color: rgba(220, 235, 255, 0.87));
-    border: 25px solid rgb(180, 30, 30);
+    background-color: ();
+    border color: blue;: 25px;
     height: 400px;
     border-radius: 8px;
     padding: 0px 9px 0px 9px;
@@ -30,10 +30,10 @@ body {
 
 
 .Icon {
-    margin-top: 11px;
-    margin-bottom: 11px;
+    margin-top: 12px;
+    margin-bottom: 12px;
     color: #cornsilk;
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
 }
 
