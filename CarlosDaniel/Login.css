@@ -6,7 +6,7 @@ body {
 
 }
 
- */
+ 
 body {
     font-size: 15px;
 }
@@ -15,8 +15,8 @@ body {
 #Contenedor {
     width: 400px;
     margin: 50px auto;
-    background-color: ();
-    border color: blue;: 25px;
+  
+    
     height: 400px;
     border-radius: 8px;
     padding: 0px 9px 0px 9px;
@@ -24,7 +24,7 @@ body {
 
 
 .Icon span {
-    background:#cornsilk;
+   
     padding: 20px;
     border-radius: 120px;
 }
@@ -33,7 +33,7 @@ body {
 .Icon {
     margin-top: 12px;
     margin-bottom: 12px;
-    color: #cornsilk;
+    
     font-size: 40px;
     text-align: center;
 }
@@ -46,12 +46,3 @@ body {
 }
 
 
-@media only screen and (max-width:320px) {
-    #Contenedor {
-        width: 100%;
-        height: auto;
-        margin: 0px;
-    }
-
-    
-    @media only screen and (max-width:240px) {}
